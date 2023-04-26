@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.btn {
+  background-color: #f8fafc;
+  color: #303150;
+  font-family: Roboto;
+  border-style: none;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+}
